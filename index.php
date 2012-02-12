@@ -90,6 +90,12 @@ function getOpenExchangeRates($filename){
 	<p> <input type="button" name="exchange" id="exchange" value="Exchange" /></p>
 </div>
 
+<p style="text-align: center;"><a href="https://twitter.com/paulund_" class="twitter-follow-button" data-show-count="true" data-lang="en">Follow @paulund_</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></p>
+
+<hr />
+
+<p>Learn how to create this application @ <a href="http://www.paulund.co.uk/how-to-create-an-exchange-rate-money-converter-with-money-js">Money Converter Tutorial</a>.</p>
+
 </section>
 
 <script type="text/javascript">
