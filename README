@@ -1,0 +1,7 @@
+Exchange Money Converter
+
+Author: Paul Underwood
+
+This uses the Money.js Javascript library to convert any currency to another. 
+
+The exchange rates are kept up to date by the open source exchange API, which is updated every hour.
